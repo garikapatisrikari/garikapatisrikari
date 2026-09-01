@@ -46,9 +46,14 @@
 ### 💗 Let's connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/srikari-garikapati-9a6509291/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-7A5AF8?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <a href="YOUR_RESUME_LINK">
+    <img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-7A5AF8?style=for-the-badge"/>
   </a>
+
+  <a href="https://www.linkedin.com/in/srikari-garikapati-9a6509291/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
   <a href="mailto:garikapatisrikari@gmail.com">
     <img src="https://img.shields.io/badge/Email-Say%20Hi-FF8FAB?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
