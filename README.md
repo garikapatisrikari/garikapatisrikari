@@ -46,7 +46,7 @@
 ### 💗 Let's connect
 
 <p align="center">
-  <a href="YOUR_RESUME_LINK">
+  <a href="https://github.com/garikapatisrikari/garikapatisrikari/blob/main/Resume.pdf">
     <img src="https://img.shields.io/badge/📄%20Resume-View%20Resume-7A5AF8?style=for-the-badge"/>
   </a>
 
